@@ -34,7 +34,7 @@ enough. When a project is ready, it is published here, free and open.
 <!-- repos:start -->
 | Repository | What it is | Language | Latest release | Licence |
 |---|---|---|---|---|
-| [**Bellweather**](https://github.com/lauden-io/Bellweather) | The weather here and now, measured, and the best forecast for your home, scored against what was measured. A Home Assistant integration for everyone, and the perfect companion for PanelOS. | HTML | [v0.1.1](https://github.com/lauden-io/Bellweather/releases/tag/v0.1.1) | AGPL-3.0 |
+| [**Bellweather**](https://github.com/lauden-io/Bellweather) | The weather here and now, measured, and the best forecast for your home, scored against what was measured. A Home Assistant integration for everyone, and the perfect companion for PanelOS. | Python | [v0.1.1](https://github.com/lauden-io/Bellweather/releases/tag/v0.1.1) | AGPL-3.0 |
 <!-- repos:end -->
 
 <sub>This list updates itself every day from GitHub.</sub>
