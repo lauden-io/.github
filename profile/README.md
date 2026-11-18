@@ -17,7 +17,7 @@ enough. When a project is ready, it is published here, free and open.
 | Project | What it is | Status |
 |---|---|---|
 | [**Bellweather**](https://github.com/lauden-io/Bellweather) | Home Assistant integration: the weather here and now, measured, and a forecast scored against what was measured | available |
-| **PanelOS** | Firmware for smart home wall panels | in development |
+| [**PanelOS**](https://github.com/lauden-io/PanelOS) | Firmware for smart home wall panels: its own interface for Home Assistant and a voice satellite, on mainline Linux | available |
 
 ## How I build
 
