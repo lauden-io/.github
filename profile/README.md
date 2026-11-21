@@ -36,6 +36,7 @@ enough. When a project is ready, it is published here, free and open.
 |---|---|---|---|---|
 | [**PanelOS**](https://github.com/lauden-io/PanelOS) | Open-source Linux firmware for smart home wall panels: its own interface for Home Assistant, drawn on the GPU, and a voice satellite. No browser, no cloud. | Slint | [v0.0.6](https://github.com/lauden-io/PanelOS/releases/tag/v0.0.6) | AGPL-3.0 |
 | [**Bellweather**](https://github.com/lauden-io/Bellweather) | The weather here and now, measured, and the best forecast for your home, scored against what was measured. A Home Assistant integration for everyone, and the perfect companion for PanelOS. | Python | [v0.1.2](https://github.com/lauden-io/Bellweather/releases/tag/v0.1.2) | AGPL-3.0 |
+| [**Bellweather-Benchmark-Data**](https://github.com/lauden-io/Bellweather-Benchmark-Data) | Every forecast and measurement behind the public Bellweather benchmark: one release per report, each file under its source's licence. | – | [2026-11-17-1-week](https://github.com/lauden-io/Bellweather-Benchmark-Data/releases/tag/2026-11-17-1-week) | – |
 <!-- repos:end -->
 
 <sub>This list updates itself every day from GitHub.</sub>
